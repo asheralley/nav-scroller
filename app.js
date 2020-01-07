@@ -12,5 +12,6 @@ function scroller() {
     console.log(nav.getBoundingClientRect());
   } else {
     //y.classList.remove('scrolled');
+    // do some testing here
   }
 }
